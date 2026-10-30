@@ -1,0 +1,15 @@
+# Data
+Data/
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.dat
+*.bigfile
+*.json
+*.asdf
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
